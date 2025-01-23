@@ -1,0 +1,7 @@
+
+*.log 
+# Ignora todos los archivos con extensión .log
+/pruebas/*
+.Ds_Store
+/node_modules/ # Para proyectos 
+Node.js /venv/ # Para proyectos Python
